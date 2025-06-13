@@ -23,3 +23,8 @@ This is a macro-enabled and interactive **Sales Dashboard** created using **Micr
 - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers)
 - Excel Macros (for navigation if applicable)
 - Excel Formulas (for dynamic calculations)
+## 📊 Dashboard Preview
+
+![Dashboard Preview](Screenshot%202025-06-10%20190659.png)
+
+
